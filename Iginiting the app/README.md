@@ -16,3 +16,29 @@
 - npm install react
 - npm install react-dom
 - Type module remove the error Browser Script can't have import and export
+- Cra used webpack as a bundler 
+- npx parcel build index.html
+- dist used to server the build 
+- we can specify browser list on browser list package for browser support
+- when we build prod build it will also create dist folder
+
+# Parcel 
+- Dev Build 
+- Local Server
+- HMR - Hot Module Replacement
+- File Watching Algo  - Written in C++
+- Parcel Caching - Faster build 
+- Image Optimization 
+- Minification
+- Bundling 
+- Compressing - Remove white space
+- Consistent Hashing 
+- Code Splitting 
+- Differential Bundling - support older browser
+- Diagnostic 
+- Error handling 
+- Https Support - To test something on ssl
+- Tree Shaking - remove extra code 
+- Different dev or prod build 
+
+
