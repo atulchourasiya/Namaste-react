@@ -1,0 +1,19 @@
+{
+  "name": "episode2",
+  "version": "1.0.0",
+  "description": "- NPM manages package but it doesn't stand for node package manager\r - Package.json is the configuration for node package manager\r -",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
